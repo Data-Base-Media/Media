@@ -1,2 +1,3 @@
 Eu testei o extract_musicalbums_info.py no albums_dataframe.ipynb, mas está alguma coisa errada ainda. Já passa para json e tambem passa para csv, mas nao passa nada ahaha
 Eu amanha vejo isso melhor, mas é so se quiseres ver
+E amanha tambem vou fazer o outro extract
