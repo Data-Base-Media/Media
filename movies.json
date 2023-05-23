@@ -1,0 +1,3352 @@
+{
+    "The Godfather": {
+        "data": {
+            "movie": {
+                "title": "The Godfather",
+                "criticScore": 10,
+                "year": "1972",
+                "director": [
+                    "Francis Ford Coppola"
+                ],
+                "releaseDate": "March 24, 1972",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Al Pacino",
+                    "Marlon Brando"
+                ],
+                "rating": "R",
+                "runtime": "175 min",
+                "summary": "Francis Ford Coppola's epic features Marlon Brando in his Oscar-winning role as the patriarch of the Corleone family. Director Coppola paints a chilling portrait of the Sicilian clan's rise and near fall from power in America, masterfully balancing the story between the Corleone's family life and the ugly crime business in which they are engaged. Based on Mario Puzo's best-selling novel and featuring career-making performances by Al Pacino, James Caan and Robert Duvall, this searing and brilliant film garnered ten Academy Award nominations, and won three including Best Picture of 1972. [Paramount Pictures]",
+                "numOfCriticReviews": 16,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "The Shawshank Redemption": {
+        "data": {
+            "movie": {
+                "title": "The Shawshank Redemption",
+                "criticScore": 81,
+                "year": "1994",
+                "director": [
+                    "Frank Darabont"
+                ],
+                "releaseDate": "September 1, 1994",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Morgan Freeman",
+                    "Tim Robbins"
+                ],
+                "rating": "R",
+                "runtime": "142 min",
+                "summary": "Wrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover.  Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convict \"Red\" Redding (Morgan Freeman).",
+                "numOfCriticReviews": 21,
+                "label": "None"
+            }
+        }
+    },
+    "The Dark Knight": {
+        "data": {
+            "movie": {
+                "title": "The Dark Knight",
+                "criticScore": 84,
+                "year": "2008",
+                "director": [
+                    "Christopher Nolan"
+                ],
+                "releaseDate": "July 18, 2008",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Aaron Eckhart",
+                    "Christian Bale",
+                    "Heath Ledger"
+                ],
+                "rating": "PG-13",
+                "runtime": "152 min",
+                "summary": "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker. (Warner Bros.)",
+                "numOfCriticReviews": 39,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "data": {
+            "movie": {
+                "title": "The Lord of the Rings: The Fellowship of the Ring",
+                "criticScore": 92,
+                "year": "2001",
+                "director": [
+                    "Peter Jackson"
+                ],
+                "releaseDate": "December 19, 2001",
+                "genres": [
+                    "Fantasy"
+                ],
+                "cast": [
+                    "Andy Serkis",
+                    "Elijah Wood"
+                ],
+                "rating": "PG-13",
+                "runtime": "178 min",
+                "summary": "",
+                "numOfCriticReviews": 34,
+                "label": "None"
+            }
+        }
+    },
+    "Pulp Fiction": {
+        "data": {
+            "movie": {
+                "title": "Pulp Fiction",
+                "criticScore": 94,
+                "year": "1994",
+                "director": [
+                    "Quentin Tarantino"
+                ],
+                "releaseDate": "October 14, 1994",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Bruce Willis",
+                    "John Travolta",
+                    "Samuel L. Jackson"
+                ],
+                "rating": "R",
+                "runtime": "154 min",
+                "summary": "",
+                "numOfCriticReviews": 24,
+                "label": "Miramax Films"
+            }
+        }
+    },
+    "Star Wars: Episode IV - A New Hope": {
+        "data": {
+            "movie": {
+                "title": "Star Wars: Episode IV - A New Hope",
+                "criticScore": 90,
+                "year": "1977",
+                "director": [
+                    "George Lucas"
+                ],
+                "releaseDate": "May 25, 1977",
+                "genres": [
+                    "Fantasy"
+                ],
+                "cast": [
+                    "Carrie Fisher",
+                    "Harrison Ford",
+                    "Mark Hamill"
+                ],
+                "rating": "PG",
+                "runtime": "121 min",
+                "summary": "A long time ago in a galaxy far, far away... Princess Leia (Carrie Fisher) is held hostage by the evil Imperial forces in their effort to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Captain Han Solo (Harrison Ford) team together with the lovable droid duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the galaxy. [20th Century Fox]",
+                "numOfCriticReviews": 24,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "Forrest Gump": {
+        "data": {
+            "movie": {
+                "title": "Forrest Gump",
+                "criticScore": 82,
+                "year": "1994",
+                "director": [
+                    "Robert Zemeckis"
+                ],
+                "releaseDate": "July 6, 1994",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Gary Sinise",
+                    "Robin Wright",
+                    "Sally Field",
+                    "Tom Hanks"
+                ],
+                "rating": "PG-13",
+                "runtime": "142 min",
+                "summary": "",
+                "numOfCriticReviews": 20,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Inception": {
+        "data": {
+            "movie": {
+                "title": "Inception",
+                "criticScore": 74,
+                "year": "2010",
+                "director": [
+                    "Christopher Nolan"
+                ],
+                "releaseDate": "July 16, 2010",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Elliot Page",
+                    "Joseph Gordon-Levitt",
+                    "Ken Watanabe",
+                    "Leonardo DiCaprio"
+                ],
+                "rating": "PG-13",
+                "runtime": "148 min",
+                "summary": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible\u2014inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming. This summer, your mind is the scene of the crime. [Warner Bros. Pictures]",
+                "numOfCriticReviews": 42,
+                "label": "None"
+            }
+        }
+    },
+    "The Lord of the Rings: The Return of the King": {
+        "data": {
+            "movie": {
+                "title": "The Lord of the Rings: The Return of the King",
+                "criticScore": 94,
+                "year": "2003",
+                "director": [
+                    "Peter Jackson"
+                ],
+                "releaseDate": "December 17, 2003",
+                "genres": [
+                    "Fantasy"
+                ],
+                "cast": [
+                    "Andy Serkis",
+                    "Orlando Bloom"
+                ],
+                "rating": "PG-13",
+                "runtime": "201 min",
+                "summary": "Sauron's forces have laid siege to Minas Tirith, the capital of Gondor, in their efforts to eliminate the race of men.  The once-great kingdom, watched over by a fading steward, has never been in more desperate need of its king. But can Aragorn (Viggo Mortensen) answer the call of his heritage and become what he was born to be?  In no small measure, the fate of Middle-earth rests on his broad shoulders.  [New Line Cinema]",
+                "numOfCriticReviews": 41,
+                "label": "New Line Cinema"
+            }
+        }
+    },
+    "The Matrix": {
+        "data": {
+            "movie": {
+                "title": "The Matrix",
+                "criticScore": 73,
+                "year": "1999",
+                "director": [
+                    "Andy Wachowski",
+                    "Lana Wachowski"
+                ],
+                "releaseDate": "March 31, 1999",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Carrie-Anne Moss",
+                    "Keanu Reeves",
+                    "Laurence Fishburne"
+                ],
+                "rating": "R",
+                "runtime": "136 min",
+                "summary": "",
+                "numOfCriticReviews": 35,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "Titanic": {
+        "data": {
+            "movie": {
+                "title": "Titanic",
+                "criticScore": 75,
+                "year": "1997",
+                "director": [
+                    "James Cameron"
+                ],
+                "releaseDate": "December 19, 1997",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Kate Winslet",
+                    "Leonardo DiCaprio"
+                ],
+                "rating": "PG-13",
+                "runtime": "194 min",
+                "summary": "",
+                "numOfCriticReviews": 35,
+                "label": "None"
+            }
+        }
+    },
+    "The Silence of the Lambs": {
+        "data": {
+            "movie": {
+                "title": "The Silence of the Lambs",
+                "criticScore": 85,
+                "year": "1991",
+                "director": [
+                    "Jonathan Demme"
+                ],
+                "releaseDate": "February 13, 1991",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Anthony Hopkins",
+                    "Jodie Foster"
+                ],
+                "rating": "R",
+                "runtime": "118 min",
+                "summary": "",
+                "numOfCriticReviews": 20,
+                "label": "Orion"
+            }
+        }
+    },
+    "The Lion King": {
+        "data": {
+            "movie": {
+                "title": "The Lion King",
+                "criticScore": 88,
+                "year": "1994",
+                "director": [
+                    "Rob Minkoff",
+                    "Roger Allers"
+                ],
+                "releaseDate": "June 15, 1994",
+                "genres": [
+                    "Musical"
+                ],
+                "cast": [
+                    "James Earl Jones",
+                    "Jeremy Irons",
+                    "Matthew Broderick",
+                    "Whoopi Goldberg"
+                ],
+                "rating": "G",
+                "runtime": "89 min",
+                "summary": "",
+                "numOfCriticReviews": 30,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "Goodfellas": {
+        "data": {
+            "movie": {
+                "title": "Goodfellas",
+                "criticScore": 91,
+                "year": "1990",
+                "director": [
+                    "Martin Scorsese"
+                ],
+                "releaseDate": "September 1, 1990",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Joe Pesci",
+                    "Lorraine Bracco",
+                    "Paul Sorvino",
+                    "Ray Liotta",
+                    "Robert De Niro"
+                ],
+                "rating": "R",
+                "runtime": "146 min",
+                "summary": "",
+                "numOfCriticReviews": 21,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "Fight Club": {
+        "data": {
+            "movie": {
+                "title": "Fight Club",
+                "criticScore": 66,
+                "year": "1999",
+                "director": [
+                    "David Fincher"
+                ],
+                "releaseDate": "October 15, 1999",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Brad Pitt",
+                    "Edward Norton"
+                ],
+                "rating": "TV-MA",
+                "runtime": "139 min",
+                "summary": "",
+                "numOfCriticReviews": 35,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "The Departed": {
+        "data": {
+            "movie": {
+                "title": "The Departed",
+                "criticScore": 85,
+                "year": "2006",
+                "director": [
+                    "Martin Scorsese"
+                ],
+                "releaseDate": "October 6, 2006",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Jack Nicholson",
+                    "Leonardo DiCaprio",
+                    "Matt Damon"
+                ],
+                "rating": "R",
+                "runtime": "151 min",
+                "summary": "This gritty crime drama from director Martin Scorsese takes us into the lives of two cops: Colin Sullivan (Matt Damon), smart and unabashedly ambitious, appears to be on the fast track in the Massachusetts State Police Department's elite Special Investigations Unit, whose prime target is powerful Irish mob boss Frank Costello (Jack Nicholson). Billy Costigan (Leonardo DiCaprio), street-smart and tough, is purported to have a violent temper that costs him his badge and eventually lands him back on the rough streets of South Boston, where he is recruited into Costello's ranks. But neither man is what he seems and, as they work at cross purposes, they are plunged into a dangerous game of cat and mouse in which the stakes could not be higher.  [Warner Bros.]",
+                "numOfCriticReviews": 39,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "The Avengers": {
+        "data": {
+            "movie": {
+                "title": "The Avengers",
+                "criticScore": 69,
+                "year": "2012",
+                "director": [
+                    "Joss Whedon"
+                ],
+                "releaseDate": "May 4, 2012",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Chris Evans",
+                    "Jeremy Renner",
+                    "Robert Downey Jr.",
+                    "Scarlett Johansson"
+                ],
+                "rating": "PG-13",
+                "runtime": "143 min",
+                "summary": "Continuing the epic big-screen adventures started in Iron Man, The Incredible Hulk, Iron Man 2, Thor and Captain America: The First Avenger, Marvel's The Avengers is the superhero team up of a lifetime. When an unexpected enemy emerges that threatens global safety and security, Nick Fury, Director of the international peacekeeping agency known as SHIELD, finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins. (Walt Disney Studios Motion Pictures)",
+                "numOfCriticReviews": 43,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Schindler's List": {
+        "data": {
+            "movie": {
+                "title": "Schindler's List",
+                "criticScore": 95,
+                "year": "1993",
+                "director": [
+                    "Steven Spielberg"
+                ],
+                "releaseDate": "December 15, 1993",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Liam Neeson",
+                    "Ralph Fiennes"
+                ],
+                "rating": "R",
+                "runtime": "195 min",
+                "summary": "",
+                "numOfCriticReviews": 30,
+                "label": "None"
+            }
+        }
+    },
+    "The Lord of the Rings: The Two Towers": {
+        "data": {
+            "movie": {
+                "title": "The Lord of the Rings: The Two Towers",
+                "criticScore": 87,
+                "year": "2002",
+                "director": [
+                    "Peter Jackson"
+                ],
+                "releaseDate": "December 18, 2002",
+                "genres": [
+                    "Fantasy"
+                ],
+                "cast": [
+                    "Andy Serkis"
+                ],
+                "rating": "PG-13",
+                "runtime": "179 min",
+                "summary": "",
+                "numOfCriticReviews": 39,
+                "label": "New Line Cinema"
+            }
+        }
+    },
+    "The Terminator": {
+        "data": {
+            "movie": {
+                "title": "The Terminator",
+                "criticScore": 84,
+                "year": "1984",
+                "director": [
+                    "James Cameron"
+                ],
+                "releaseDate": "October 26, 1984",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Arnold Schwarzenegger",
+                    "Linda Hamilton",
+                    "Michael Biehn"
+                ],
+                "rating": "R",
+                "runtime": "107 min",
+                "summary": "",
+                "numOfCriticReviews": 21,
+                "label": "Orion Pictures"
+            }
+        }
+    },
+    "The Green Mile": {
+        "data": {
+            "movie": {
+                "title": "The Green Mile",
+                "criticScore": 61,
+                "year": "1999",
+                "director": [
+                    "Frank Darabont"
+                ],
+                "releaseDate": "December 10, 1999",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Michael Clarke Duncan",
+                    "Tom Hanks"
+                ],
+                "rating": "R",
+                "runtime": "189 min",
+                "summary": "",
+                "numOfCriticReviews": 36,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "The Prestige": {
+        "data": {
+            "movie": {
+                "title": "The Prestige",
+                "criticScore": 66,
+                "year": "2006",
+                "director": [
+                    "Christopher Nolan"
+                ],
+                "releaseDate": "October 20, 2006",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Christian Bale",
+                    "Hugh Jackman",
+                    "Scarlett Johansson"
+                ],
+                "rating": "PG-13",
+                "runtime": "130 min",
+                "summary": "",
+                "numOfCriticReviews": 36,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "Gladiator": {
+        "data": {
+            "movie": {
+                "title": "Gladiator",
+                "criticScore": 67,
+                "year": "2000",
+                "director": [
+                    "Ridley Scott"
+                ],
+                "releaseDate": "May 5, 2000",
+                "genres": [
+                    "History"
+                ],
+                "cast": [
+                    "Connie Nielsen",
+                    "Joaquin Phoenix",
+                    "Russell Crowe"
+                ],
+                "rating": "R",
+                "runtime": "155 min",
+                "summary": "Before Maximus (Crowe), the heroic Roman General, can honor the wishes of his dying emperor Marcus Aurelius (Harris) by assuming the emperor's role, the emperor's cruel and corrupt son Commodus (Phoenix) orders the execution of Maximus and his family.  Escaping death, Maximus assumes the life of an anonymous gladiator, fighting his way back to the Roman Colosseum where he seeks revenge and a return to justice for Rome.",
+                "numOfCriticReviews": 46,
+                "label": "DreamWorks"
+            }
+        }
+    },
+    "The Usual Suspects": {
+        "data": {
+            "movie": {
+                "title": "The Usual Suspects",
+                "criticScore": 77,
+                "year": "1995",
+                "director": [
+                    "Bryan Singer"
+                ],
+                "releaseDate": "August 16, 1995",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Chazz Palminteri",
+                    "Gabriel Byrne",
+                    "Kevin Spacey"
+                ],
+                "rating": "R",
+                "runtime": "106 min",
+                "summary": "",
+                "numOfCriticReviews": 22,
+                "label": "Bad Hat Harry Productions"
+            }
+        }
+    },
+    "The Godfather: Part II": {
+        "data": {
+            "movie": {
+                "title": "The Godfather: Part II",
+                "criticScore": 90,
+                "year": "1974",
+                "director": [
+                    "Francis Ford Coppola"
+                ],
+                "releaseDate": "December 12, 1974",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Al Pacino",
+                    "Diane Keaton",
+                    "Robert De Niro",
+                    "Robert Duvall"
+                ],
+                "rating": "R",
+                "runtime": "200 min",
+                "summary": "",
+                "numOfCriticReviews": 18,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Saving Private Ryan": {
+        "data": {
+            "movie": {
+                "title": "Saving Private Ryan",
+                "criticScore": 91,
+                "year": "1998",
+                "director": [
+                    "Steven Spielberg"
+                ],
+                "releaseDate": "July 24, 1998",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Matt Damon",
+                    "Tom Hanks"
+                ],
+                "rating": "TV-MA",
+                "runtime": "169 min",
+                "summary": "",
+                "numOfCriticReviews": 38,
+                "label": "DreamWorks"
+            }
+        }
+    },
+    "Se7en": {
+        "data": {
+            "movie": {
+                "title": "Seven",
+                "criticScore": 65,
+                "year": "1995",
+                "director": [
+                    "David Fincher"
+                ],
+                "releaseDate": "September 22, 1995",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Brad Pitt",
+                    "Morgan Freeman"
+                ],
+                "rating": "R",
+                "runtime": "127 min",
+                "summary": "",
+                "numOfCriticReviews": 22,
+                "label": "New Line Cinema"
+            }
+        }
+    },
+    "The Shining": {
+        "data": {
+            "movie": {
+                "title": "The Shining",
+                "criticScore": 66,
+                "year": "1980",
+                "director": [
+                    "Stanley Kubrick"
+                ],
+                "releaseDate": "May 23, 1980",
+                "genres": [
+                    "Horror"
+                ],
+                "cast": [
+                    "Jack Nicholson",
+                    "Shelley Duvall"
+                ],
+                "rating": "R",
+                "runtime": "146 min",
+                "summary": "",
+                "numOfCriticReviews": 26,
+                "label": "None"
+            }
+        }
+    },
+    "A Clockwork Orange": {
+        "data": {
+            "movie": {
+                "title": "A Clockwork Orange",
+                "criticScore": 77,
+                "year": "1971",
+                "director": [
+                    "Stanley Kubrick"
+                ],
+                "releaseDate": "December 20, 1971",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Malcolm McDowell",
+                    "Patrick Magee"
+                ],
+                "rating": "X",
+                "runtime": "136 min",
+                "summary": "Kubrick makes of Anthony Burgess' celebrated novel a savage and satiric morality play centering on Alex (McDowell), who fights, robs, rapes and kills like any concsienceless predator. Captured and imprisoned, he undergoes treatment to condition him \"safe\", a \"clockwork orange\" healthy and whole on the outside - but crippled within by reflex mechanisms beyond his control. (Warner Bros.)",
+                "numOfCriticReviews": 22,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "The Social Network": {
+        "data": {
+            "movie": {
+                "title": "The Social Network",
+                "criticScore": 95,
+                "year": "2010",
+                "director": [
+                    "David Fincher"
+                ],
+                "releaseDate": "October 1, 2010",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Andrew Garfield",
+                    "Jesse Eisenberg",
+                    "Justin Timberlake"
+                ],
+                "rating": "PG-13",
+                "runtime": "120 min",
+                "summary": "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg (Jesse Eisenberg) sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications. [Columbia Pictures]",
+                "numOfCriticReviews": 42,
+                "label": "Columbia Pictures"
+            }
+        }
+    },
+    "Jurassic Park": {
+        "data": {
+            "movie": {
+                "title": "Jurassic Park",
+                "criticScore": 68,
+                "year": "1993",
+                "director": [
+                    "Steven Spielberg"
+                ],
+                "releaseDate": "June 11, 1993",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Jeff Goldblum",
+                    "Laura Dern",
+                    "Richard Attenborough",
+                    "Sam Neill"
+                ],
+                "rating": "PG-13",
+                "runtime": "127 min",
+                "summary": "",
+                "numOfCriticReviews": 20,
+                "label": "Amblin Entertainment"
+            }
+        }
+    },
+    "Indiana Jones and the Raiders of the Lost Ark": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Back to the Future": {
+        "data": {
+            "movie": {
+                "title": "Back to the Future",
+                "criticScore": 87,
+                "year": "1985",
+                "director": [
+                    "Robert Zemeckis"
+                ],
+                "releaseDate": "July 3, 1985",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Christopher Lloyd",
+                    "Michael J. Fox"
+                ],
+                "rating": "PG",
+                "runtime": "116 min",
+                "summary": "",
+                "numOfCriticReviews": 26,
+                "label": "Universal Studios"
+            }
+        }
+    },
+    "The Exorcist": {
+        "data": {
+            "movie": {
+                "title": "The Exorcist",
+                "criticScore": 81,
+                "year": "1973",
+                "director": [
+                    "William Friedkin"
+                ],
+                "releaseDate": "December 26, 1973",
+                "genres": [
+                    "Horror"
+                ],
+                "cast": [
+                    "Ellen Burstyn",
+                    "Linda Blair",
+                    "Max von Sydow"
+                ],
+                "rating": "R",
+                "runtime": "122 min",
+                "summary": "",
+                "numOfCriticReviews": 21,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "Alien": {
+        "data": {
+            "movie": {
+                "title": "Alien",
+                "criticScore": 89,
+                "year": "1979",
+                "director": [
+                    "Ridley Scott"
+                ],
+                "releaseDate": "June 22, 1979",
+                "genres": [
+                    "Horror"
+                ],
+                "cast": [
+                    "John Hurt",
+                    "Sigourney Weaver",
+                    "Tom Skerritt"
+                ],
+                "rating": "R",
+                "runtime": "117 min",
+                "summary": "",
+                "numOfCriticReviews": 34,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "E.T. the Extra-Terrestrial": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Jaws": {
+        "data": {
+            "movie": {
+                "title": "Jaws",
+                "criticScore": 87,
+                "year": "1975",
+                "director": [
+                    "Steven Spielberg"
+                ],
+                "releaseDate": "June 20, 1975",
+                "genres": [
+                    "Horror"
+                ],
+                "cast": [
+                    "Richard Dreyfuss",
+                    "Robert Shaw",
+                    "Robert Shaw",
+                    "Roy Scheider"
+                ],
+                "rating": "PG",
+                "runtime": "124 min",
+                "summary": "",
+                "numOfCriticReviews": 21,
+                "label": "None"
+            }
+        }
+    },
+    "Die Hard": {
+        "data": {
+            "movie": {
+                "title": "Die Hard",
+                "criticScore": 72,
+                "year": "1988",
+                "director": [
+                    "John McTiernan"
+                ],
+                "releaseDate": "July 15, 1988",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Alan Rickman",
+                    "Bruce Willis"
+                ],
+                "rating": "R",
+                "runtime": "131 min",
+                "summary": "",
+                "numOfCriticReviews": 14,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "Blade Runner": {
+        "data": {
+            "movie": {
+                "title": "Blade Runner",
+                "criticScore": 84,
+                "year": "1982",
+                "director": [
+                    "Ridley Scott"
+                ],
+                "releaseDate": "June 25, 1982",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Harrison Ford",
+                    "Rutger Hauer",
+                    "Sean Young"
+                ],
+                "rating": "R",
+                "runtime": "117 min",
+                "summary": "",
+                "numOfCriticReviews": 15,
+                "label": "None"
+            }
+        }
+    },
+    "A Few Good Men": {
+        "data": {
+            "movie": {
+                "title": "A Few Good Men",
+                "criticScore": 62,
+                "year": "1992",
+                "director": [
+                    "Rob Reiner"
+                ],
+                "releaseDate": "December 11, 1992",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Demi Moore",
+                    "Jack Nicholson",
+                    "Tom Cruise"
+                ],
+                "rating": "R",
+                "runtime": "138 min",
+                "summary": "",
+                "numOfCriticReviews": 21,
+                "label": "Columbia Pictures"
+            }
+        }
+    },
+    "The Sixth Sense": {
+        "data": {
+            "movie": {
+                "title": "The Sixth Sense",
+                "criticScore": 64,
+                "year": "1999",
+                "director": [
+                    "M. Night Shyamalan"
+                ],
+                "releaseDate": "August 6, 1999",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Bruce Willis",
+                    "Haley Joel Osment"
+                ],
+                "rating": "PG-13",
+                "runtime": "107 min",
+                "summary": "In this chilling, psychological thriller, 8-year-old Cole Sear (Osment) is haunted by a dark secret: he is visited by ghosts. Confused by his paranormal powers, Cole is too young to understand his purpose and too afraid to tell anyone about his anguish, except child psychologist Dr. Malcolm Crowe (Willis). As Dr. Crowe tries to uncover the ominous truth about Cole's supernatural abilities, the consequences for client and therapist are a jolt that awakens them both to something harrowing...and unexplainable. (Hollywood Pictures)",
+                "numOfCriticReviews": 35,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "The Good, the Bad and the Ugly": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Rocky": {
+        "data": {
+            "movie": {
+                "title": "Rocky",
+                "criticScore": 70,
+                "year": "1976",
+                "director": [
+                    "John G. Avildsen"
+                ],
+                "releaseDate": "December 3, 1976",
+                "genres": [
+                    "Sport"
+                ],
+                "cast": [
+                    "Sylvester Stallone",
+                    "Talia Shire"
+                ],
+                "rating": "PG",
+                "runtime": "120 min",
+                "summary": "",
+                "numOfCriticReviews": 14,
+                "label": "United Artists"
+            }
+        }
+    },
+    "The Princess Bride": {
+        "data": {
+            "movie": {
+                "title": "The Princess Bride",
+                "criticScore": 77,
+                "year": "1987",
+                "director": [
+                    "Rob Reiner"
+                ],
+                "releaseDate": "September 25, 1987",
+                "genres": [
+                    "Family"
+                ],
+                "cast": [
+                    "Cary Elwes",
+                    "Mandy Patinkin",
+                    "Robin Wright"
+                ],
+                "rating": "PG",
+                "runtime": "98 min",
+                "summary": "",
+                "numOfCriticReviews": 20,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "Terminator 2: Judgment Day": {
+        "data": {
+            "movie": {
+                "title": "Terminator 2: Judgment Day",
+                "criticScore": 75,
+                "year": "1991",
+                "director": [
+                    "James Cameron"
+                ],
+                "releaseDate": "July 3, 1991",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Arnold Schwarzenegger",
+                    "Linda Hamilton"
+                ],
+                "rating": "TV-14",
+                "runtime": "137 min",
+                "summary": "In a future, war-ravaged Los Angeles in which the machines have taken over the earth, a faction of human rebels led by an adult John Connor do battle with the cyborgs. Two \"intelligent machines\" have been dispatched to the past, one -- a replica of the Terminator model T-800 which dominated the original film -- to protect the young Connor, the other -- a shape-shifting metallic T-1000 -- to kill him.",
+                "numOfCriticReviews": 22,
+                "label": "TriStar Pictures"
+            }
+        }
+    },
+    "The Big Lebowski": {
+        "data": {
+            "movie": {
+                "title": "The Big Lebowski",
+                "criticScore": 71,
+                "year": "1998",
+                "director": [
+                    "Ethan Coen",
+                    "Joel Coen"
+                ],
+                "releaseDate": "March 6, 1998",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "David Huddleston",
+                    "Jeff Bridges",
+                    "John Goodman",
+                    "Julianne Moore",
+                    "Mark Pellegrino",
+                    "Peter Stormare",
+                    "Philip Moon",
+                    "Philip Seymour Hoffman",
+                    "Steve Buscemi",
+                    "Tara Reid"
+                ],
+                "rating": "R",
+                "runtime": "117 min",
+                "summary": "'The Dude', Jeff Lebowski is unemployed and as laid-back as they come. That is until he becomes a victim of mistaken identity, and two thugs break into his apartment with the errant belief that they're strong-arming Jeff Lebowski - the Pasadena millionaire. In the hope of getting a replacement for his soiled carpet, 'the Dude' pays a visit to his wealthy namesake...",
+                "numOfCriticReviews": 46,
+                "label": "PolyGram Filmed Entertainment"
+            }
+        }
+    },
+    "Toy Story": {
+        "data": {
+            "movie": {
+                "title": "Toy Story",
+                "criticScore": 96,
+                "year": "1995",
+                "director": [
+                    "John Lasseter"
+                ],
+                "releaseDate": "November 22, 1995",
+                "genres": [
+                    "Family"
+                ],
+                "cast": [
+                    "Tim Allen",
+                    "Tom Hanks"
+                ],
+                "rating": "TV-G",
+                "runtime": "81 min",
+                "summary": "",
+                "numOfCriticReviews": 26,
+                "label": "Walt Disney Pictures"
+            }
+        }
+    },
+    "The Truman Show": {
+        "data": {
+            "movie": {
+                "title": "The Truman Show",
+                "criticScore": 90,
+                "year": "1998",
+                "director": [
+                    "Peter Weir"
+                ],
+                "releaseDate": "June 5, 1998",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Jim Carrey"
+                ],
+                "rating": "PG",
+                "runtime": "103 min",
+                "summary": "",
+                "numOfCriticReviews": 30,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Shutter Island": {
+        "data": {
+            "movie": {
+                "title": "Shutter Island",
+                "criticScore": 63,
+                "year": "2010",
+                "director": [
+                    "Martin Scorsese"
+                ],
+                "releaseDate": "February 19, 2010",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Emily Mortimer",
+                    "Leonardo DiCaprio",
+                    "Mark Ruffalo"
+                ],
+                "rating": "R",
+                "runtime": "138 min",
+                "summary": "",
+                "numOfCriticReviews": 37,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "The Dark Knight Rises": {
+        "data": {
+            "movie": {
+                "title": "The Dark Knight Rises",
+                "criticScore": 78,
+                "year": "2012",
+                "director": [
+                    "Christopher Nolan"
+                ],
+                "releaseDate": "July 20, 2012",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Anne Hathaway",
+                    "Christian Bale",
+                    "Gary Oldman",
+                    "Joseph Gordon-Levitt",
+                    "Marion Cotillard",
+                    "Michael Caine",
+                    "Morgan Freeman",
+                    "Tom Hardy"
+                ],
+                "rating": "PG-13",
+                "runtime": "165 min",
+                "summary": "It has been eight years since Batman vanished into the night, turning, in that instant, from hero to fugitive. Assuming the blame for the death of D.A. Harvey Dent, the Dark Knight sacrificed everything for what he and Commissioner Gordon both hoped was the greater good. For a time the lie worked, as criminal activity in Gotham City was crushed under the weight of the anti-crime Dent Act. But everything will change with the arrival of a cunning cat burglar with a mysterious agenda. Far more dangerous, however, is the emergence of Bane, a masked terrorist whose ruthless plans for Gotham drive Bruce out of his self-imposed exile. But even if he dons the cape and cowl again, Batman may be no match for Bane. (Warner Bros. Pictures)",
+                "numOfCriticReviews": 45,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "American Beauty": {
+        "data": {
+            "movie": {
+                "title": "American Beauty",
+                "criticScore": 84,
+                "year": "1999",
+                "director": [
+                    "Sam Mendes"
+                ],
+                "releaseDate": "September 15, 1999",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Annette Bening",
+                    "Kevin Spacey"
+                ],
+                "rating": "R",
+                "runtime": "122 min",
+                "summary": "Provoked by forbidden passions, Lester Burnham (Spacey) decides to make a few changes in his rut of a life, changes that are less midlife crisis than adolescence reborn. The freer he gets, the happier he gets, which is even more maddening to his wife, Carolyn (Bening), and daughter Jane (Birch) --especially when he turns his lustful gaze toward Jane's friend, the sultry Angela (Suvari).  (Dreamworks SKG)",
+                "numOfCriticReviews": 34,
+                "label": "DreamWorks"
+            }
+        }
+    },
+    "Braveheart": {
+        "data": {
+            "movie": {
+                "title": "Braveheart",
+                "criticScore": 68,
+                "year": "1995",
+                "director": [
+                    "Mel Gibson"
+                ],
+                "releaseDate": "May 24, 1995",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Mel Gibson",
+                    "Sophie Marceau"
+                ],
+                "rating": "R",
+                "runtime": "177 min",
+                "summary": "",
+                "numOfCriticReviews": 20,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Inglourious Basterds": {
+        "data": {
+            "movie": {
+                "title": "Inglourious Basterds",
+                "criticScore": 69,
+                "year": "2009",
+                "director": [
+                    "Eli Roth",
+                    "Quentin Tarantino"
+                ],
+                "releaseDate": "August 21, 2009",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Brad Pitt",
+                    "Diane Kruger",
+                    "Eli Roth"
+                ],
+                "rating": "R",
+                "runtime": "153 min",
+                "summary": "In the first year of the German occupation of France, Shosanna Dreyfus witnesses the execution of her family at the hand of Nazi Colonel Hans Landa. Shosanna narrowly escapes and flees to Paris where she forges a new identity as the owner and operator of a cinema. Elsewhere in Europe, lieutenant Aldo Raine organizes a group of Jewish American soldiers to perform swift, shocking acts of retribution. Later known to their enemy as \"the basterds,\" Raine's squad joins German actress and undercover agent Bridget von Hammersmark on a mission to take down the leaders of the Third Reich. Fates converge under a cinema marquis, where Shosanna is poised to carry out a revenge plan of her own. [The Weinstein Company]",
+                "numOfCriticReviews": 36,
+                "label": "Universal Pictures"
+            }
+        }
+    },
+    "Avatar": {
+        "data": {
+            "movie": {
+                "title": "Avatar",
+                "criticScore": 83,
+                "year": "2009",
+                "director": [
+                    "James Cameron"
+                ],
+                "releaseDate": "December 18, 2009",
+                "genres": [
+                    "Fantasy"
+                ],
+                "cast": [
+                    "Michelle Rodriguez",
+                    "Sam Worthington",
+                    "Sigourney Weaver"
+                ],
+                "rating": "PG-13",
+                "runtime": "162 min",
+                "summary": "Jake Sully is a former Marine confined to a wheelchair. But despite his broken body, Jake is still a warrior at heart. He is recruited to travel light years to the human outpost on Pandora, where a corporate consortium is mining a rare mineral that is the key to solving Earth's energy crisis. Because Pandora's atmosphere is toxic, they have created the Avatar Program, in which human \"drivers\" have their consciousness linked to an avatar, a remotely-controlled biological body that can survive in the lethal air. These avatars are genetically engineered hybrids of human DNA mixed with DNA from the natives of Pandora... the Na'vi. Reborn in his avatar form, Jake can walk again. He is given a mission to infiltrate the Na'vi, who have become a major obstacle to mining the precious ore. But a beautiful Na'vi female, Neytiri, saves Jake's life, and this changes everything. Jake is taken in by her clan, and learns to become one of them, which involves many tests and adventures. As Jake's relationship with his reluctant teacher Neytiri deepens, he learns to respect the Na'vi way and finally takes his place among them. Soon he will face the ultimate test as he leads them in an epic battle that will decide the fate of an entire world.  (20th Century Fox)",
+                "numOfCriticReviews": 38,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "Interstellar": {
+        "data": {
+            "movie": {
+                "title": "Interstellar",
+                "criticScore": 74,
+                "year": "2014",
+                "director": [
+                    "Christopher Nolan"
+                ],
+                "releaseDate": "November 5, 2014",
+                "genres": [
+                    "Mystery"
+                ],
+                "cast": [
+                    "Anne Hathaway",
+                    "Bill Irwin",
+                    "Ellen Burstyn",
+                    "Jessica Chastain",
+                    "Mackenzie Foy",
+                    "Matthew McConaughey",
+                    "Michael Caine"
+                ],
+                "rating": "PG-13",
+                "runtime": "169 min",
+                "summary": "",
+                "numOfCriticReviews": 46,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Kill Bill: Vol. 1": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Full Metal Jacket": {
+        "data": {
+            "movie": {
+                "title": "Full Metal Jacket",
+                "criticScore": 76,
+                "year": "1987",
+                "director": [
+                    "Stanley Kubrick"
+                ],
+                "releaseDate": "June 26, 1987",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Matthew Modine",
+                    "R. Lee Ermey",
+                    "Vincent D'Onofrio"
+                ],
+                "rating": "R",
+                "runtime": "116 min",
+                "summary": "",
+                "numOfCriticReviews": 19,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "A Beautiful Mind": {
+        "data": {
+            "movie": {
+                "title": "A Beautiful Mind",
+                "criticScore": 72,
+                "year": "2001",
+                "director": [
+                    "Ron Howard"
+                ],
+                "releaseDate": "December 21, 2001",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Ed Harris",
+                    "Russell Crowe"
+                ],
+                "rating": "PG-13",
+                "runtime": "135 min",
+                "summary": "",
+                "numOfCriticReviews": 33,
+                "label": "Universal Pictures"
+            }
+        }
+    },
+    "Scarface": {
+        "data": {
+            "movie": {
+                "title": "Scarface",
+                "criticScore": 65,
+                "year": "1983",
+                "director": [
+                    "Brian De Palma"
+                ],
+                "releaseDate": "December 9, 1983",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Al Pacino",
+                    "Michelle Pfeiffer"
+                ],
+                "rating": "X",
+                "runtime": "170 min",
+                "summary": "",
+                "numOfCriticReviews": 9,
+                "label": "Universal"
+            }
+        }
+    },
+    "Donnie Darko": {
+        "data": {
+            "movie": {
+                "title": "Donnie Darko",
+                "criticScore": 71,
+                "year": "2001",
+                "director": [
+                    "Richard Kelly"
+                ],
+                "releaseDate": "October 26, 2001",
+                "genres": [
+                    "Mystery"
+                ],
+                "cast": [
+                    "Jake Gyllenhaal",
+                    "Mary McDonnell"
+                ],
+                "rating": "R",
+                "runtime": "113 min",
+                "summary": "",
+                "numOfCriticReviews": 21,
+                "label": "Pandora Films"
+            }
+        }
+    },
+    "Reservoir Dogs": {
+        "data": {
+            "movie": {
+                "title": "Reservoir Dogs",
+                "criticScore": 79,
+                "year": "1992",
+                "director": [
+                    "Quentin Tarantino"
+                ],
+                "releaseDate": "October 1, 1992",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Harvey Keitel",
+                    "Michael Madsen",
+                    "Tim Roth"
+                ],
+                "rating": "TV-MA",
+                "runtime": "99 min",
+                "summary": "",
+                "numOfCriticReviews": 24,
+                "label": "Miramax Films"
+            }
+        }
+    },
+    "The Empire Strikes Back": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "The Matrix Reloaded": {
+        "data": {
+            "movie": {
+                "title": "The Matrix Reloaded",
+                "criticScore": 62,
+                "year": "2003",
+                "director": [
+                    "Lana Wachowski",
+                    "Lilly Wachowski"
+                ],
+                "releaseDate": "May 15, 2003",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [],
+                "rating": "R",
+                "runtime": "138 min",
+                "summary": "",
+                "numOfCriticReviews": 40,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "The Sting": {
+        "data": {
+            "movie": {
+                "title": "The Sting",
+                "criticScore": 83,
+                "year": "1973",
+                "director": [
+                    "George Roy Hill"
+                ],
+                "releaseDate": "December 25, 1973",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Paul Newman",
+                    "Robert Redford"
+                ],
+                "rating": "TV-14",
+                "runtime": "129 min",
+                "summary": "",
+                "numOfCriticReviews": 17,
+                "label": "Universal"
+            }
+        }
+    },
+    "Platoon": {
+        "data": {
+            "movie": {
+                "title": "Platoon",
+                "criticScore": 92,
+                "year": "1986",
+                "director": [
+                    "Oliver Stone"
+                ],
+                "releaseDate": "December 19, 1986",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Forest Whitaker",
+                    "Francesco Quinn",
+                    "John C. McGinley",
+                    "Keith David",
+                    "Kevin Dillon",
+                    "Mark Moses",
+                    "Reggie Johnson",
+                    "Tom Berenger",
+                    "Willem Dafoe"
+                ],
+                "rating": "R",
+                "runtime": "120 min",
+                "summary": "",
+                "numOfCriticReviews": 16,
+                "label": "Orion"
+            }
+        }
+    },
+    "The Last Emperor": {
+        "data": {
+            "movie": {
+                "title": "The Last Emperor",
+                "criticScore": 76,
+                "year": "1987",
+                "director": [
+                    "Bernardo Bertolucci"
+                ],
+                "releaseDate": "December 18, 1987",
+                "genres": [
+                    "History"
+                ],
+                "cast": [
+                    "Joan Chen",
+                    "John Lone",
+                    "Peter O'Toole"
+                ],
+                "rating": "TV-14",
+                "runtime": "163 min",
+                "summary": "",
+                "numOfCriticReviews": 15,
+                "label": "Columbia Pictures"
+            }
+        }
+    },
+    "The Killing Fields": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "The Color Purple": {
+        "data": {
+            "movie": {
+                "title": "The Color Purple",
+                "criticScore": 78,
+                "year": "1985",
+                "director": [
+                    "Steven Spielberg"
+                ],
+                "releaseDate": "December 18, 1985",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Danny Glover",
+                    "Oprah Winfrey",
+                    "Whoopi Goldberg"
+                ],
+                "rating": "PG-13",
+                "runtime": "154 min",
+                "summary": "",
+                "numOfCriticReviews": 7,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "Top Gun": {
+        "data": {
+            "movie": {
+                "title": "Top Gun",
+                "criticScore": 50,
+                "year": "1986",
+                "director": [
+                    "Tony Scott"
+                ],
+                "releaseDate": "May 16, 1986",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Anthony Edwards",
+                    "Barry Tubb",
+                    "John Stockwell",
+                    "Kelly McGillis",
+                    "Michael Ironside",
+                    "Rick Rossovich",
+                    "Tim Robbins",
+                    "Tom Cruise",
+                    "Tom Skerritt",
+                    "Val Kilmer"
+                ],
+                "rating": "PG",
+                "runtime": "110 min",
+                "summary": "",
+                "numOfCriticReviews": 15,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "The Breakfast Club": {
+        "data": {
+            "movie": {
+                "title": "The Breakfast Club",
+                "criticScore": 66,
+                "year": "1985",
+                "director": [
+                    "John Hughes"
+                ],
+                "releaseDate": "February 15, 1985",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Ally Sheedy",
+                    "Emilio Estevez",
+                    "Judd Nelson",
+                    "Molly Ringwald"
+                ],
+                "rating": "R",
+                "runtime": "97 min",
+                "summary": "We accept the fact that we had to sacrifice a whole Saturday in detention for whatever it was that we did wrong. What we did WAS wrong. But we think you're crazy to make us write this essay telling you who we think we are. What do you care? You see us as you want to see us...in the simplest terms and the most convenient definitions. You see us as a brain, an athlete, a basket case, a princess and a criminal. Correct? That's the way we saw each other at seven o'clock this morning... - The Breakfast Club",
+                "numOfCriticReviews": 25,
+                "label": "Universal"
+            }
+        }
+    },
+    "Raiders of the Lost Ark": {
+        "data": {
+            "movie": {
+                "title": "Raiders of the Lost Ark",
+                "criticScore": 85,
+                "year": "1981",
+                "director": [
+                    "Steven Spielberg"
+                ],
+                "releaseDate": "June 12, 1981",
+                "genres": [
+                    "Adventure"
+                ],
+                "cast": [
+                    "Harrison Ford",
+                    "John Rhys-Davies",
+                    "Karen Allen",
+                    "Paul Freeman"
+                ],
+                "rating": "PG",
+                "runtime": "115 min",
+                "summary": "",
+                "numOfCriticReviews": 16,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "The Princess Diaries": {
+        "data": {
+            "movie": {
+                "title": "The Princess Diaries",
+                "criticScore": 52,
+                "year": "2001",
+                "director": [
+                    "Garry Marshall"
+                ],
+                "releaseDate": "August 3, 2001",
+                "genres": [
+                    "Family"
+                ],
+                "cast": [
+                    "Anne Hathaway",
+                    "Julie Andrews"
+                ],
+                "rating": "G",
+                "runtime": "115 min",
+                "summary": "Shy teenager Mia Thermopolis (Hathaway) is thrown for a loop when, from out of the blue, she learns the astonishing news that she's a real-life princess!  As the heir apparent to the crown of the small European principality of Genovia, Mia begins a comical journey towards the throne when her strict and formidable grandmother, Queen Clarisse Renaldi (Andrews), shows up to give her \"princess lessons.\"  (Walt Disney Pictures)",
+                "numOfCriticReviews": 27,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "The Hunger Games": {
+        "data": {
+            "movie": {
+                "title": "The Hunger Games",
+                "criticScore": 68,
+                "year": "2012",
+                "director": [
+                    "Gary Ross"
+                ],
+                "releaseDate": "March 23, 2012",
+                "genres": [
+                    "Thriller"
+                ],
+                "cast": [
+                    "Jennifer Lawrence",
+                    "Josh Hutcherson",
+                    "Liam Hemsworth"
+                ],
+                "rating": "PG-13",
+                "runtime": "142 min",
+                "summary": "Every year in the ruins of what was once North America, the evil Capitol of the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games. A twisted punishment for a past uprising and an ongoing government intimidation tactic, The Hunger Games are a nationally televised event in which \"Tributes\" must fight with one another until one survivor remains. Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy. If she's ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. [Lionsgate]",
+                "numOfCriticReviews": 49,
+                "label": "Lionsgate"
+            }
+        }
+    },
+    "Mean Girls": {
+        "data": {
+            "movie": {
+                "title": "Mean Girls",
+                "criticScore": 66,
+                "year": "2004",
+                "director": [
+                    "Mark Waters"
+                ],
+                "releaseDate": "April 30, 2004",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Jonathan Bennett",
+                    "Lindsay Lohan",
+                    "Rachel McAdams"
+                ],
+                "rating": "PG-13",
+                "runtime": "97 min",
+                "summary": "Raised in the African bush country by her zoologist parents, Cady Heron (Lindsay Lohan) thinks she knows about \"survival of the fittest.\"  But the law of the jungle takes on a whole new meaning when the home-schooled 15-year-old enters public high school for the first time and falls prey to the psychological warfare and unwritten social rules that teenage girls face today. [Paramount Pictures]",
+                "numOfCriticReviews": 39,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "The Notebook": {
+        "data": {
+            "movie": {
+                "title": "The Notebook",
+                "criticScore": 53,
+                "year": "2004",
+                "director": [
+                    "Nick Cassavetes"
+                ],
+                "releaseDate": "June 25, 2004",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Gena Rowlands",
+                    "James Garner",
+                    "Joan Allen",
+                    "Rachel McAdams",
+                    "Ryan Gosling"
+                ],
+                "rating": "PG-13",
+                "runtime": "123 min",
+                "summary": "",
+                "numOfCriticReviews": 34,
+                "label": "New Line Cinema"
+            }
+        }
+    },
+    "The Fault in Our Stars": {
+        "data": {
+            "movie": {
+                "title": "The Fault in Our Stars",
+                "criticScore": 69,
+                "year": "2014",
+                "director": [
+                    "Josh Boone"
+                ],
+                "releaseDate": "June 6, 2014",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Ana Dela Cruz",
+                    "Ansel Elgort",
+                    "Laura Dern",
+                    "Lotte Verbeek",
+                    "Nat Wolff",
+                    "Randy Kovitz",
+                    "Sam Trammell",
+                    "Shailene Woodley",
+                    "Willem Dafoe"
+                ],
+                "rating": "PG-13",
+                "runtime": "126 min",
+                "summary": "",
+                "numOfCriticReviews": 45,
+                "label": "20th Century Fox"
+            }
+        }
+    },
+    "The Twilight Saga: Eclipse": {
+        "data": {
+            "movie": {
+                "title": "The Twilight Saga: Eclipse",
+                "criticScore": 58,
+                "year": "2010",
+                "director": [
+                    "David Slade"
+                ],
+                "releaseDate": "June 30, 2010",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Kristen Stewart",
+                    "Robert Pattinson",
+                    "Taylor Lautner"
+                ],
+                "rating": "PG-13",
+                "runtime": "124 min",
+                "summary": "In Eclipse, Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob \u2014 knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life. (Summit Entertainment)",
+                "numOfCriticReviews": 38,
+                "label": "Summit Entertainment"
+            }
+        }
+    },
+    "Gone with the Wind": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Mary Poppins": {
+        "data": {
+            "movie": {
+                "title": "Mary Poppins",
+                "criticScore": 88,
+                "year": "1964",
+                "director": [
+                    "Robert Stevenson"
+                ],
+                "releaseDate": "August 27, 1964",
+                "genres": [
+                    "Musical"
+                ],
+                "cast": [
+                    "Dick Van Dyke",
+                    "Julie Andrews"
+                ],
+                "rating": "G",
+                "runtime": "139 min",
+                "summary": "",
+                "numOfCriticReviews": 13,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "The Sound of Music": {
+        "data": {
+            "movie": {
+                "title": "The Sound of Music",
+                "criticScore": 63,
+                "year": "1965",
+                "director": [
+                    "Robert Wise"
+                ],
+                "releaseDate": "March 2, 1965",
+                "genres": [
+                    "Musical"
+                ],
+                "cast": [
+                    "Angela Cartwright",
+                    "Charmian Carr",
+                    "Christopher Plummer",
+                    "Duane Chase",
+                    "Eleanor Parker",
+                    "Heather Menzies-Urich",
+                    "Julie Andrews",
+                    "Nicholas Hammond",
+                    "Peggy Wood",
+                    "Richard Haydn"
+                ],
+                "rating": "Approved",
+                "runtime": "172 min",
+                "summary": "",
+                "numOfCriticReviews": 11,
+                "label": "20th Century Fox Film Corporation"
+            }
+        }
+    },
+    "The Wizard of Oz": {
+        "data": {
+            "movie": {
+                "title": "The Wizard of Oz",
+                "criticScore": 92,
+                "year": "1939",
+                "director": [
+                    "George Cukor",
+                    "King Vidor",
+                    "Mervyn LeRoy",
+                    "Norman Taurog",
+                    "Victor Fleming"
+                ],
+                "releaseDate": "August 25, 1939",
+                "genres": [
+                    "Musical"
+                ],
+                "cast": [
+                    "Bert Lahr",
+                    "Billie Burke",
+                    "Frank Morgan",
+                    "Jack Haley",
+                    "Judy Garland",
+                    "Ray Bolger"
+                ],
+                "rating": "PG",
+                "runtime": "102 min",
+                "summary": "",
+                "numOfCriticReviews": 30,
+                "label": "MGM"
+            }
+        }
+    },
+    "Casablanca": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "It's a Wonderful Life": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Singin' in the Rain": {
+        "data": {
+            "movie": {
+                "title": "Singin' in the Rain",
+                "criticScore": 99,
+                "year": "1952",
+                "director": [
+                    "Gene Kelly",
+                    "Stanley Donen"
+                ],
+                "releaseDate": "April 11, 1952",
+                "genres": [
+                    "Musical"
+                ],
+                "cast": [
+                    "Cyd Charisse",
+                    "Dawn Addams",
+                    "Debbie Reynolds",
+                    "Donald O'Connor",
+                    "Douglas Fowley",
+                    "Gene Kelly",
+                    "Jean Hagen",
+                    "John Albright",
+                    "Millard Mitchell",
+                    "Rita Moreno"
+                ],
+                "rating": "G",
+                "runtime": "103 min",
+                "summary": "",
+                "numOfCriticReviews": 17,
+                "label": "MGM"
+            }
+        }
+    },
+    "The Bridge on the River Kwai": {
+        "data": {
+            "movie": {
+                "title": "The Bridge on the River Kwai",
+                "criticScore": 87,
+                "year": "1957",
+                "director": [
+                    "David Lean"
+                ],
+                "releaseDate": "December 14, 1957",
+                "genres": [
+                    "War"
+                ],
+                "cast": [
+                    "Alec Guinness",
+                    "Andr\u00e9 Morell",
+                    "Geoffrey Horne",
+                    "Jack Hawkins",
+                    "James Donald",
+                    "John Boxer",
+                    "Percy Herbert",
+                    "Peter Williams",
+                    "Sessue Hayakawa",
+                    "William Holden"
+                ],
+                "rating": "TV-PG",
+                "runtime": "161 min",
+                "summary": "",
+                "numOfCriticReviews": 15,
+                "label": "None"
+            }
+        }
+    },
+    "Lawrence of Arabia": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "The Graduate": {
+        "data": {
+            "movie": {
+                "title": "The Graduate",
+                "criticScore": 83,
+                "year": "1967",
+                "director": [
+                    "Mike Nichols"
+                ],
+                "releaseDate": "December 21, 1967",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Anne Bancroft",
+                    "Dustin Hoffman"
+                ],
+                "rating": "PG",
+                "runtime": "105 min",
+                "summary": "Shy Benjamin Braddock (Dustin Hoffman) returns home from college with an uncertain future. Then the wife of his father's business partner, the sexy Mrs. Robinson (Anne Bancroft), seduces him, and the affair only deepens his confusion. That is, until he meets the girl of his dreams (Katharine Ross). But there's one problem: she's Mrs. Robinson's daughter. [MGM]",
+                "numOfCriticReviews": 19,
+                "label": "Embassy Pictures"
+            }
+        }
+    },
+    "The Godfather: Part III": {
+        "data": {
+            "movie": {
+                "title": "The Godfather: Part III",
+                "criticScore": 60,
+                "year": "1990",
+                "director": [
+                    "Francis Ford Coppola"
+                ],
+                "releaseDate": "December 25, 1990",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Al Pacino",
+                    "Andy Garcia",
+                    "Diane Keaton"
+                ],
+                "rating": "R",
+                "runtime": "162 min",
+                "summary": "In this third film in the epic Corleone trilogy, Al Pacino reprises the role of powerful family leader Michael Corleone. Now in his 60's, Michael is dominated by two passions: freeing his family from crime and finding a suitable successor. That successor could be fiery Vincent (Garcia)... but he may also be the spark that turns Michael's hope of business legitimacy into an inferno of mob violence. [Paramount Pictures]",
+                "numOfCriticReviews": 19,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Ferris Bueller's Day Off": {
+        "data": {
+            "movie": {
+                "title": "Ferris Bueller's Day Off",
+                "criticScore": 61,
+                "year": "1986",
+                "director": [
+                    "John Hughes"
+                ],
+                "releaseDate": "June 11, 1986",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Alan Ruck",
+                    "Matthew Broderick",
+                    "Mia Sara"
+                ],
+                "rating": "PG-13",
+                "runtime": "103 min",
+                "summary": "Ferris Bueller. Larger than life. Blessed with a magical sense of serendipity. He's a model for all those who take themselves too seriously. A guy who knows the value of a day off. Ferris Bueller's Day Off chronicles the events in the day of a rather magical young man, Ferris (Broderick). One spring day, toward the end of his senior year, Ferris gives into an overwhelming urge to cut school and head for downtown Chicago with his girl (Sara) and his best friend (Ruck), to see the sights, experience a day of freedom and show that with a little ingenuity, a bit of courage and a red Ferrari, life at 17 can be a joy! (Paramount)",
+                "numOfCriticReviews": 13,
+                "label": "Paramount Pictures"
+            }
+        }
+    },
+    "Pretty Woman": {
+        "data": {
+            "movie": {
+                "title": "Pretty Woman",
+                "criticScore": 51,
+                "year": "1990",
+                "director": [
+                    "Garry Marshall"
+                ],
+                "releaseDate": "March 23, 1990",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Julia Roberts",
+                    "Richard Gere"
+                ],
+                "rating": "R",
+                "runtime": "119 min",
+                "summary": "",
+                "numOfCriticReviews": 18,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "Little Miss Sunshine": {
+        "data": {
+            "movie": {
+                "title": "Little Miss Sunshine",
+                "criticScore": 80,
+                "year": "2006",
+                "director": [
+                    "Jonathan Dayton",
+                    "Valerie Faris"
+                ],
+                "releaseDate": "July 26, 2006",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Greg Kinnear",
+                    "Steve Carell",
+                    "Toni Collette"
+                ],
+                "rating": "R",
+                "runtime": "101 min",
+                "summary": "Little Miss Sunshine is an American family road comedy that shatters the mold. Brazenly satirical and yet deeply human, the film introduces audiences to one of the most endearingly fractured families in recent cinema history: the Hoovers, whose trip to a pre-pubescent beauty pageant results not only in comic mayhem but in death, transformation and a moving look at the surprising rewards of being losers in a winning-crazed culture.  (Fox Searchlight Pictures)",
+                "numOfCriticReviews": 36,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "Juno": {
+        "data": {
+            "movie": {
+                "title": "Juno",
+                "criticScore": 81,
+                "year": "2007",
+                "director": [
+                    "Jason Reitman"
+                ],
+                "releaseDate": "December 5, 2007",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Elliot Page",
+                    "Jennifer Garner",
+                    "Michael Cera"
+                ],
+                "rating": "PG-13",
+                "runtime": "96 min",
+                "summary": "Juno, a whip-smart teen, confronts an unplanned pregnancy by her classmate Bleeker. With the help of her hot best friend, Leah, Juno finds her unborn child a \"perfect\" set of parents: an affluent suburban couple, Mark and Vanessa, longing to adopt. Luckily, Juno has the total support of her parents as she faces some tough decisions, flirts with adulthood, and ultimately figures out where she belongs.",
+                "numOfCriticReviews": 38,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "Moonlight": {
+        "data": {
+            "movie": {
+                "title": "Moonlight",
+                "criticScore": 99,
+                "year": "2016",
+                "director": [
+                    "Barry Jenkins"
+                ],
+                "releaseDate": "October 21, 2016",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Alex R. Hibbert",
+                    "Ashton Sanders",
+                    "Duan Sanderson",
+                    "Herman 'Caheei McGloun",
+                    "Jaden Piner",
+                    "Janelle Mon\u00e1e",
+                    "Mahershala Ali",
+                    "Naomie Harris",
+                    "Shariff Earp"
+                ],
+                "rating": "Not Rated",
+                "runtime": "111 min",
+                "summary": "",
+                "numOfCriticReviews": 53,
+                "label": "None"
+            }
+        }
+    },
+    "Blue Valentine": {
+        "data": {
+            "movie": {
+                "title": "Blue Valentine",
+                "criticScore": 81,
+                "year": "2010",
+                "director": [
+                    "Derek Cianfrance"
+                ],
+                "releaseDate": "December 29, 2010",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "John Doman",
+                    "Michelle Williams",
+                    "Ryan Gosling"
+                ],
+                "rating": "NC-17",
+                "runtime": "120 min",
+                "summary": "",
+                "numOfCriticReviews": 42,
+                "label": "Weinstein Co."
+            }
+        }
+    },
+    "The Florida Project": {
+        "data": {
+            "movie": {
+                "title": "The Florida Project",
+                "criticScore": 92,
+                "year": "2017",
+                "director": [
+                    "Sean Baker"
+                ],
+                "releaseDate": "October 6, 2017",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Aiden Malik",
+                    "Bria Vinaite",
+                    "Brooklynn Prince",
+                    "Caleb Landry Jones",
+                    "Christopher Rivera",
+                    "Edward Pagan",
+                    "Jasineia Ramos",
+                    "Jason Blackwater",
+                    "Josie Olivo",
+                    "Karren Karagulian",
+                    "Macon Blair",
+                    "Patti Wiley",
+                    "Sandy Kane",
+                    "Valeria Cotto",
+                    "Willem Dafoe"
+                ],
+                "rating": "Not Rated",
+                "runtime": "111 min",
+                "summary": "Six-year-old Moonee (Brooklynn Prince) and her rebellious mother Halley (Bria Vinaite) live week to week at \u201cThe Magic Castle,\u201d a budget motel managed by Bobby (Willem Dafoe), whose stern exterior hides a deep reservoir of kindness and compassion.  Despite her harsh surroundings, the precocious and ebullient Moonee has no trouble making each day a celebration of life, her endless afternoons overflowing with mischief and grand adventure as she and her ragtag playmates\u2014including Jancey, a new arrival to the area who quickly becomes Moonee\u2019s best friend\u2014fearlessly explore the utterly unique world into which they\u2019ve been thrown. Unbeknownst to Moonee, however, her delicate fantasy is supported by the toil and sacrifice of Halley, who is forced to explore increasingly dangerous possibilities in order to provide for her daughter.",
+                "numOfCriticReviews": 44,
+                "label": "None"
+            }
+        }
+    },
+    "Manchester by the Sea": {
+        "data": {
+            "movie": {
+                "title": "Manchester by the Sea",
+                "criticScore": 96,
+                "year": "2016",
+                "director": [
+                    "Kenneth Lonergan"
+                ],
+                "releaseDate": "November 18, 2016",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Casey Affleck",
+                    "Kyle Chandler",
+                    "Lucas Hedges",
+                    "Michelle Williams"
+                ],
+                "rating": "R",
+                "runtime": "137 min",
+                "summary": "After the death of his older brother Joe (Kyle Chandler), Lee Chandler (Casey Affleck) is shocked to learn that Joe has made him sole guardian of his nephew Patrick (Lucas Hedges). Taking leave of his job, Lee reluctantly returns to Manchester-by-the-Sea to care for Patrick, a spirited 15-year-old, and is forced to deal with a past that separated him from his wife Randi (Michelle Williams) and the community where he was born and raised.   Bonded by the man who held their family together, Lee and Patrick struggle to adjust to a world without him.",
+                "numOfCriticReviews": 53,
+                "label": "Amazon Studios"
+            }
+        }
+    },
+    "Lady Bird": {
+        "data": {
+            "movie": {
+                "title": "Lady Bird",
+                "criticScore": 93,
+                "year": "2017",
+                "director": [
+                    "Greta Gerwig"
+                ],
+                "releaseDate": "November 3, 2017",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Andy Buckley",
+                    "Beanie Feldstein",
+                    "Danielle Macdonald",
+                    "Jake McDorman",
+                    "Jordan Rodrigues",
+                    "Kathryn Newton",
+                    "Kristen Cloke",
+                    "Laura Marano",
+                    "Laurie Metcalf",
+                    "Lois Smith",
+                    "Lucas Hedges",
+                    "Odeya Rush",
+                    "Saoirse Ronan",
+                    "Stephen Henderson",
+                    "Timoth\u00e9e Chalamet",
+                    "Tracy Letts"
+                ],
+                "rating": "R",
+                "runtime": "94 min",
+                "summary": "Christine \"Lady Bird\" McPherson (Saoirse Ronan) fights against but is exactly like her wildly loving, deeply opinionated and strong-willed mom (Laurie Metcalf), a nurse working tirelessly to keep her family afloat after Lady Bird's father (Tracy Letts) loses his job. Set in Sacramento, California in 2002, amidst a rapidly shifting American economic landscape, Lady Bird is an affecting look at the relationships that shape us, the beliefs that define us, and the unmatched beauty of a place called home. [A24]",
+                "numOfCriticReviews": 52,
+                "label": "A24"
+            }
+        }
+    },
+    "Swiss Army Man": {
+        "data": {
+            "movie": {
+                "title": "Swiss Army Man",
+                "criticScore": 64,
+                "year": "2016",
+                "director": [
+                    "Dan Kwan",
+                    "Daniel Scheinert"
+                ],
+                "releaseDate": "June 24, 2016",
+                "genres": [
+                    "Musical"
+                ],
+                "cast": [
+                    "Daniel Radcliffe",
+                    "Paul Dano"
+                ],
+                "rating": "R",
+                "runtime": "97 min",
+                "summary": "",
+                "numOfCriticReviews": 36,
+                "label": "A24"
+            }
+        }
+    },
+    "In Bruges": {
+        "data": {
+            "movie": {
+                "title": "In Bruges",
+                "criticScore": 67,
+                "year": "2008",
+                "director": [
+                    "Martin McDonagh"
+                ],
+                "releaseDate": "February 8, 2008",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Brendan Gleeson",
+                    "Colin Farrell"
+                ],
+                "rating": "R",
+                "runtime": "107 min",
+                "summary": "Very much out of place amidst the gothic architecture, canals, and cobbled streets, the two hit men fill their days living the lives of tourists. Ray, still haunted by the bloodshed in London, hates the place, while Ken, even as he keeps a fatherly eye on Ray's often profanely funny exploits, finds his mind and soul being expanded by the beauty and serenity of the city. But the longer they stay waiting for Harry's call, the more surreal their experience becomes, as they find themselves in weird encounters with locals, tourists, violent medieval art, a dwarf American actor shooting a European art film, Dutch prostitutes, and a potential romance for Ray in the form of Chloe, who may have some dark secrets of her own.  And when the call from Harry does finally come, Ken and Ray's vacation becomes a life-and-death struggle of darkly comic proportions and surprisingly emotional consequences. [Focus Features]",
+                "numOfCriticReviews": 34,
+                "label": "Focus Features"
+            }
+        }
+    },
+    "The Royal Tenenbaums": {
+        "data": {
+            "movie": {
+                "title": "The Royal Tenenbaums",
+                "criticScore": 76,
+                "year": "2001",
+                "director": [
+                    "Wes Anderson"
+                ],
+                "releaseDate": "December 14, 2001",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Gene Hackman",
+                    "Gwyneth Paltrow"
+                ],
+                "rating": "R",
+                "runtime": "110 min",
+                "summary": "Royal Tenenbaum (Gene Hackman) and his wife, Etheline (Anjelica Huston), had three children\u2014Chas, Margot, and Richie\u2014and then they separated. Chas (Ben Stiller) started buying real estate in his early teens and seemed to have an almost preternatural understanding of international finance. Margot (Gwyneth Paltrow) was a playwright and received a Braverman Grant of $50,000 in the ninth grade. Richie (Luke Wilson) was a junior champion tennis player and won the U.S. Nationals three years in a row. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. [Touchstone Pictures]]",
+                "numOfCriticReviews": 34,
+                "label": "Buena Vista"
+            }
+        }
+    },
+    "The Squid and the Whale": {
+        "data": {
+            "movie": {
+                "title": "The Squid and the Whale",
+                "criticScore": 82,
+                "year": "2005",
+                "director": [
+                    "Noah Baumbach"
+                ],
+                "releaseDate": "October 5, 2005",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [],
+                "rating": "R",
+                "runtime": "81 min",
+                "summary": "",
+                "numOfCriticReviews": 37,
+                "label": "Sony Pictures Releasing"
+            }
+        }
+    },
+    "Garden State": {
+        "data": {
+            "movie": {
+                "title": "Garden State",
+                "criticScore": 67,
+                "year": "2004",
+                "director": [
+                    "Zach Braff"
+                ],
+                "releaseDate": "July 28, 2004",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Natalie Portman",
+                    "Peter Sarsgaard",
+                    "Zach Braff"
+                ],
+                "rating": "TV-MA",
+                "runtime": "102 min",
+                "summary": "Andrew Largeman (Braff) shuffled through life in a lithium-induced coma until his mother's death inspired a vacation from the pills to see what might happen. When he travels from L.A. back to his hometown, he meets Sam (Portman), a girl who is everything he isn't. Her warmth and fearlessness give him the courage to open his heart to the joy and pain of the infinite abyss that is life.  (Fox Searchlight Pictures)",
+                "numOfCriticReviews": 37,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "Lost in Translation": {
+        "data": {
+            "movie": {
+                "title": "Lost in Translation",
+                "criticScore": 91,
+                "year": "2003",
+                "director": [
+                    "Sofia Coppola"
+                ],
+                "releaseDate": "September 12, 2003",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Bill Murray",
+                    "Giovanni Ribisi",
+                    "Scarlett Johansson"
+                ],
+                "rating": "R",
+                "runtime": "102 min",
+                "summary": "Unable to sleep, Bob (Murray) and Charlotte (Johansson), two Americans in Tokyo, cross paths one night in the luxury hotel bar. This chance meeting soon becomes a surprising friendship. Charlotte and Bob venture through Tokyo, having often hilarious encounters with its citizens, and ultimately discover a new belief in life's possibilities. (Focus Features)",
+                "numOfCriticReviews": 44,
+                "label": "Focus Features"
+            }
+        }
+    },
+    "Her": {
+        "data": {
+            "movie": {
+                "title": "Her",
+                "criticScore": 91,
+                "year": "2013",
+                "director": [
+                    "Spike Jonze"
+                ],
+                "releaseDate": "December 18, 2013",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Amy Adams",
+                    "Chris Pratt",
+                    "Joaquin Phoenix",
+                    "Olivia Wilde",
+                    "Rooney Mara",
+                    "Samantha Morton",
+                    "Scarlett Johansson"
+                ],
+                "rating": "R",
+                "runtime": "126 min",
+                "summary": "Set in the Los Angeles of the slight future, Her follows Theodore Twombly, a complex, soulful man who makes his living writing touching, personal letters for other people. Heartbroken after the end of a long relationship, he becomes intrigued with a new, advanced operating system, which promises to be an intuitive entity in its own right, individual to each user. Upon initiating it, he is delighted to meet \"Samantha,\" a bright, female voice, who is insightful, sensitive and surprisingly funny. As her needs and desires grow, in tandem with his own, their friendship deepens into an eventual love for each other. [Warner Bros.]",
+                "numOfCriticReviews": 47,
+                "label": "Warner Bros."
+            }
+        }
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+        "data": {
+            "movie": {
+                "title": "Eternal Sunshine of the Spotless Mind",
+                "criticScore": 89,
+                "year": "2004",
+                "director": [
+                    "Michel Gondry"
+                ],
+                "releaseDate": "March 19, 2004",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Jim Carrey",
+                    "Kate Winslet",
+                    "Tom Wilkinson"
+                ],
+                "rating": "R",
+                "runtime": "108 min",
+                "summary": "Joel (Carrey) is stunned to discover that his girlfriend Clementine (Winslet) has had her memories of their tumultuous relationship erased.  Out of desperation, he contacts the inventor of the process, Dr. Howard Mierzwiak (Wilkinson), to have Clementine removed from his own memory.  But as Joel's memories progressively disappear, he begins to rediscover his love for Clementine.  (Focus Features)",
+                "numOfCriticReviews": 41,
+                "label": "Focus Features"
+            }
+        }
+    },
+    "The Lobster": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Brick": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Napoleon Dynamite": {
+        "data": {
+            "movie": {
+                "title": "Napoleon Dynamite",
+                "criticScore": 64,
+                "year": "2004",
+                "director": [
+                    "Jared Hess"
+                ],
+                "releaseDate": "June 11, 2004",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Efren Ram\u00edrez",
+                    "Jon Gries",
+                    "Jon Heder"
+                ],
+                "rating": "PG",
+                "runtime": "82 min",
+                "summary": "",
+                "numOfCriticReviews": 36,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "Submarine": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Call Me By Your Name": {
+        "data": {
+            "movie": {
+                "title": "Call Me by Your Name",
+                "criticScore": 94,
+                "year": "2017",
+                "director": [
+                    "Luca Guadagnino"
+                ],
+                "releaseDate": "November 24, 2017",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Amira Casar",
+                    "Antonio Rimoldi",
+                    "Armie Hammer",
+                    "Elena Bucci",
+                    "Esther Garrel",
+                    "Marco Sgrosso",
+                    "Michael Stuhlbarg",
+                    "Timoth\u00e9e Chalamet",
+                    "Vanda Capriolo",
+                    "Victoire Du Bois"
+                ],
+                "rating": "R",
+                "runtime": "132 min",
+                "summary": "It\u2019s the summer of 1983 in the north of Italy, and Elio Perlman (Timothe\u0301e Chalamet), a precocious 17- year-old American-Italian, spends his days in his family\u2019s 17th century villa transcribing and playing classical music, reading, and flirting with his friend Marzia (Esther Garrel). Elio enjoys a close relationship with his father (Michael Stuhlbarg), an eminent professor specializing in Greco-Roman culture, and his mother Annella (Amira Casar), a translator, who favor him with the fruits of high culture in a setting that overflows with natural delights. While Elio\u2019s sophistication and intellectual gifts suggest he is already a fully-fledged adult, there is much that yet remains innocent and unformed about him, particularly about matters of the heart. One day, Oliver (Armie Hammer), a charming American scholar working on his doctorate, arrives as the annual summer intern tasked with helping Elio\u2019s father. Amid the sun-drenched splendor of the setting, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.",
+                "numOfCriticReviews": 53,
+                "label": "Sony Pictures Classics"
+            }
+        }
+    },
+    "The Darjeeling Limited": {
+        "data": {
+            "movie": {
+                "title": "The Darjeeling Limited",
+                "criticScore": 67,
+                "year": "2007",
+                "director": [
+                    "Wes Anderson"
+                ],
+                "releaseDate": "September 29, 2007",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Adrien Brody",
+                    "Jason Schwartzman",
+                    "Owen Wilson"
+                ],
+                "rating": "R",
+                "runtime": "91 min",
+                "summary": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray), and they eventually find themselves stranded alone in the middle of the desert with eleven suitcases, a printer, and a laminating machine. At this moment, a new, unplanned journey suddenly begins.  (Fox Searchlight)",
+                "numOfCriticReviews": 35,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "The Grand Budapest Hotel": {
+        "data": {
+            "movie": {
+                "title": "The Grand Budapest Hotel",
+                "criticScore": 88,
+                "year": "2014",
+                "director": [
+                    "Wes Anderson"
+                ],
+                "releaseDate": "March 7, 2014",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Adrien Brody",
+                    "Bill Murray",
+                    "Edward Norton",
+                    "F. Murray Abraham",
+                    "Harvey Keitel",
+                    "Jeff Goldblum",
+                    "Jude Law",
+                    "L\u00e9a Seydoux",
+                    "Mathieu Amalric",
+                    "Ralph Fiennes",
+                    "Saoirse Ronan",
+                    "Willem Dafoe"
+                ],
+                "rating": "R",
+                "runtime": "100 min",
+                "summary": "The Grand Budapest Hotel recounts the adventures of M. Gustave, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune\u2014all against the back-drop of a suddenly and dramatically changing continent. [Fox Searchlight]",
+                "numOfCriticReviews": 48,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "Frances Ha": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "The Big Sick": {
+        "data": {
+            "movie": {
+                "title": "The Big Sick",
+                "criticScore": 86,
+                "year": "2017",
+                "director": [
+                    "Michael Showalter"
+                ],
+                "releaseDate": "June 23, 2017",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Adeel Akhtar",
+                    "Aidy Bryant",
+                    "Anupam Kher",
+                    "Bo Burnham",
+                    "Holly Hunter",
+                    "Kumail Nanjiani",
+                    "Kurt Braunohler",
+                    "Ray Romano",
+                    "Zenobia Shroff",
+                    "Zoe Kazan"
+                ],
+                "rating": "R",
+                "runtime": "120 min",
+                "summary": "Based on the real-life courtship between Kumail Nanjiani and Emily V. Gordon, The Big Sick tells the story of Pakistan-born aspiring comedian Kumail (Nanjiani), who connects with grad student Emily (Zoe Kazan) after one of his standup sets. However, what they thought would be just a one-night stand blossoms into the real thing, which complicates the life that is expected of Kumail by his traditional Muslim parents. When Emily is beset with a mystery illness, it forces Kumail to navigate the medical crisis with her parents, Beth and Terry (Holly Hunter and Ray Romano) who he's never met, while dealing with the emotional tug-of-war between his family and his heart.",
+                "numOfCriticReviews": 47,
+                "label": "Lionsgate Films"
+            }
+        }
+    },
+    "The Handmaiden": {
+        "data": {
+            "movie": {
+                "title": "The Handmaiden",
+                "criticScore": 84,
+                "year": "2016",
+                "director": [
+                    "Chan-wook Park"
+                ],
+                "releaseDate": "October 21, 2016",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Hae-suk Kim",
+                    "Jin-woong Jo",
+                    "Jung-woo Ha",
+                    "Min-hee Kim",
+                    "So-ri Moon",
+                    "Tae Ri Kim"
+                ],
+                "rating": "Not Rated",
+                "runtime": "144 min",
+                "summary": "1930s Korea, in the period of Japanese occupation, a new girl (Kim Tae-ri) is hired as a handmaiden to a Japanese heiress (Kim Min-hee) who lives a secluded life on a large countryside estate with her domineering Uncle (Jo Jin-woong). But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count (Ha Jung-woo) to help him seduce the Lady to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until Sookee and Hideko discover some unexpected emotions.",
+                "numOfCriticReviews": 40,
+                "label": "None"
+            }
+        }
+    },
+    "Snowpiercer": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Drive": {
+        "data": {
+            "movie": {
+                "title": "Drive",
+                "criticScore": 78,
+                "year": "2011",
+                "director": [
+                    "Nicolas Winding Refn"
+                ],
+                "releaseDate": "September 16, 2011",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Bryan Cranston",
+                    "Carey Mulligan",
+                    "Ryan Gosling"
+                ],
+                "rating": "R",
+                "runtime": "100 min",
+                "summary": "Drive is the story of a Hollywood stunt driver by day, a loner by nature, who moonlights as a top-notch getaway driver-for-hire in the criminal underworld. He finds himself a target for some of LA's most dangerous men after agreeing to aid the husband of his beautiful neighbor, Irene. When the job goes dangerously awry, the only way he can keep Irene and her son alive is to do what he does best\u2014Drive! [FilmDistrict]",
+                "numOfCriticReviews": 43,
+                "label": "OddLot Entertainment"
+            }
+        }
+    },
+    "The Place Beyond the Pines": {
+        "errors": [
+            {
+                "message": "TypeError: Cannot destructure property 'parsedContent' of 'helpers_1.determineMoviePage(...)' as it is undefined.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 1
+                    }
+                ],
+                "path": [
+                    "movie"
+                ],
+                "extensions": {
+                    "code": "INTERNAL_SERVER_ERROR"
+                }
+            }
+        ],
+        "data": {
+            "movie": null
+        }
+    },
+    "Good Time": {
+        "data": {
+            "movie": {
+                "title": "Good Time",
+                "criticScore": 80,
+                "year": "2017",
+                "director": [
+                    "Ben Safdie",
+                    "Joshua Safdie"
+                ],
+                "releaseDate": "August 11, 2017",
+                "genres": [
+                    "Crime"
+                ],
+                "cast": [
+                    "Barkhad Abdi",
+                    "Ben Safdie",
+                    "Buddy Duress",
+                    "Gladys Mathon",
+                    "Jennifer Jason Leigh",
+                    "Luke Eberl",
+                    "Mahadeo Shivraj",
+                    "Marcos A. Gonzalez",
+                    "Necro",
+                    "Peter Verby",
+                    "Robert Pattinson",
+                    "Ron Braunstein",
+                    "Rose Gregorio",
+                    "Saida Mansoor",
+                    "Souleymane Sy Savane",
+                    "Taliah Webster"
+                ],
+                "rating": "Not Rated",
+                "runtime": "101 min",
+                "summary": "After a botched bank robbery lands his younger brother in prison, Constantine Nikas (Robert Pattinson) embarks on a twisted odyssey through the city\u2019s underworld in an increasingly desperate\u2014and dangerous\u2014attempt to get his brother out of jail. Over the course of one adrenalized night, Constantine finds himself on a mad descent into violence and mayhem as he races against the clock to save his brother and himself, knowing their lives hang in the balance.",
+                "numOfCriticReviews": 41,
+                "label": "None"
+            }
+        }
+    },
+    "Eighth Grade": {
+        "data": {
+            "movie": {
+                "title": "Eighth Grade",
+                "criticScore": 89,
+                "year": "2018",
+                "director": [
+                    "Bo Burnham"
+                ],
+                "releaseDate": "July 13, 2018",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Catherine Oliviere",
+                    "Daniel Zolghadri",
+                    "Deborah Unger",
+                    "Elsie Fisher",
+                    "Emily Robinson",
+                    "Frank Deal",
+                    "Fred Hechinger",
+                    "Gerald W. Jones",
+                    "Greg Crowe",
+                    "Imani Lewis",
+                    "Jake Ryan",
+                    "Josh Hamilton",
+                    "Josh Hamilton",
+                    "Luke Prael",
+                    "Marguerite Stimpson",
+                    "Missy Yager",
+                    "Natalie Carter",
+                    "Nora Mullins"
+                ],
+                "rating": "R",
+                "runtime": "93 min",
+                "summary": "",
+                "numOfCriticReviews": 49,
+                "label": "None"
+            }
+        }
+    },
+    "Me and Earl and the Dying Girl": {
+        "data": {
+            "movie": {
+                "title": "Me and Earl and the Dying Girl",
+                "criticScore": 74,
+                "year": "2015",
+                "director": [
+                    "Alfonso Gomez-Rejon"
+                ],
+                "releaseDate": "June 12, 2015",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Olivia Cooke",
+                    "RJ Cyler",
+                    "Thomas Mann"
+                ],
+                "rating": "PG-13",
+                "runtime": "105 min",
+                "summary": "Greg (Thomas Mann), a high school senior who is trying to blend in anonymously, avoids deeper relationships as a survival strategy for navigating the social minefield that is teenage life.  He even describes his constant companion Earl (RJ Cyler), with whom he makes short film parodies of classic movies, as more of a \u2018co-worker\u2019 than a best friend. But when Greg\u2019s mom (Connie Britton) insists he spend time with Rachel (Olivia Cooke) \u2013 a girl in his class who has just been diagnosed with cancer \u2013 he slowly discovers how worthwhile the true bonds of friendship can be. [Fox Searchlight]",
+                "numOfCriticReviews": 40,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "The Spectacular Now": {
+        "data": {
+            "movie": {
+                "title": "The Spectacular Now",
+                "criticScore": 82,
+                "year": "2013",
+                "director": [
+                    "James Ponsoldt"
+                ],
+                "releaseDate": "August 2, 2013",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Andre Royo",
+                    "Bob Odenkirk",
+                    "Brie Larson",
+                    "Jennifer Jason Leigh",
+                    "Kyle Chandler",
+                    "Mary Elizabeth Winstead",
+                    "Miles Teller",
+                    "Shailene Woodley"
+                ],
+                "rating": "R",
+                "runtime": "95 min",
+                "summary": "",
+                "numOfCriticReviews": 42,
+                "label": "A24"
+            }
+        }
+    },
+    "Safety Not Guaranteed": {
+        "data": {
+            "movie": {
+                "title": "Safety Not Guaranteed",
+                "criticScore": 72,
+                "year": "2012",
+                "director": [
+                    "Colin Trevorrow"
+                ],
+                "releaseDate": "June 8, 2012",
+                "genres": [
+                    "Comedy"
+                ],
+                "cast": [
+                    "Aubrey Plaza",
+                    "Jake M. Johnson",
+                    "Jenica Bergere",
+                    "Karan Soni",
+                    "Mark Duplass"
+                ],
+                "rating": "R",
+                "runtime": "86 min",
+                "summary": "When an unusual classified ad inspires three cynical Seattle magazine employees to look for the story behind it, they discover a mysterious eccentric named Kenneth, a likable but paranoid supermarket clerk, who believes he\u00b9s solved the riddle of time travel and intends to depart again soon. Together, they embark on a hilarious, smart, and unexpectedly heartfelt journey that reveals how far believing can take you. (FilmDistrict)",
+                "numOfCriticReviews": 31,
+                "label": "FilmDistrict"
+            }
+        }
+    },
+    "Like Crazy": {
+        "data": {
+            "movie": {
+                "title": "Like Crazy",
+                "criticScore": 68,
+                "year": "2011",
+                "director": [
+                    "Drake Doremus"
+                ],
+                "releaseDate": "October 28, 2011",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [],
+                "rating": "PG-13",
+                "runtime": "90 min",
+                "summary": "A love story is both a physical and emotional tale, one that can be deeply personal and heartbreaking for an audience to experience. Director Drake Doremus' film Like Crazy beautifully illustrates how your first real love is as thrilling and blissful as it is devastating. When a British college student falls for her American classmate they embark on a passionate and life-changing journey only to be separated when she violates the terms of her visa.Like Crazy explores how a couple faces the real challenges of being together and of being apart. Winner of the Grand Jury Prize for Best Picture at the 2011 Sundance Film Festival and of the Special Jury Prize for Best Actress for Felicity Jones, Like Crazy depicts both the hopefulness and the heartbreak of love. [Paramount Vantage]",
+                "numOfCriticReviews": 38,
+                "label": "Paramount Vantage"
+            }
+        }
+    },
+    "The Art of Getting By": {
+        "data": {
+            "movie": {
+                "title": "The Art of Getting By",
+                "criticScore": 36,
+                "year": "2011",
+                "director": [
+                    "Gavin Wiesen"
+                ],
+                "releaseDate": "June 17, 2011",
+                "genres": [
+                    "Romance"
+                ],
+                "cast": [
+                    "Emma Roberts",
+                    "Freddie Highmore",
+                    "Michael Angarano"
+                ],
+                "rating": "PG-13",
+                "runtime": "84 min",
+                "summary": "",
+                "numOfCriticReviews": 28,
+                "label": "Fox Searchlight Pictures"
+            }
+        }
+    },
+    "The End of the Tour": {
+        "data": {
+            "movie": {
+                "title": "The End of the Tour",
+                "criticScore": 82,
+                "year": "2015",
+                "director": [
+                    "James Ponsoldt"
+                ],
+                "releaseDate": "July 31, 2015",
+                "genres": [
+                    "Drama"
+                ],
+                "cast": [
+                    "Anna Chlumsky",
+                    "Jason Segel",
+                    "Jesse Eisenberg",
+                    "Joan Cusack",
+                    "Mamie Gummer",
+                    "Mickey Sumner",
+                    "Ron Livingston"
+                ],
+                "rating": "R",
+                "runtime": "106 min",
+                "summary": "The End of the Tour tells the story of the five-day interview between Rolling Stone reporter (and novelist) David Lipsky (Jesse Eisenberg) and acclaimed novelist David Foster Wallace (Jason Segel), which took place right after the 1996 publication of Wallace\u2019s groundbreaking epic novel, Infinite Jest. As the days go on, a tenuous yet intense relationship seems to develop between journalist and subject. The two men bob and weave around each other, sharing laughs and also possibly revealing hidden frailties \u2013 but it\u2019s never clear how truthful they are being with each other. Ironically, the interview was never published, and five days of audio tapes were packed away in Lipsky\u2019s closet. The two men did not meet again. The film is based on Lipsky\u2019s critically acclaimed memoir about this unforgettable encounter, written following Wallace\u2019s 2008 suicide. [A24]",
+                "numOfCriticReviews": 35,
+                "label": "A24"
+            }
+        }
+    }
+}
